@@ -1,0 +1,2 @@
+# lein
+leiningen config dir
